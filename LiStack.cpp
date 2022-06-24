@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 typedef int ElemType;
 typedef struct LiStack{
     ElemType data;
